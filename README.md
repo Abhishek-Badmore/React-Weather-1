@@ -2,9 +2,9 @@
 Newer version of the previous reactApp with searchbar facility and more detailed information
 
 # SearchBar
--use to search in differnt city names
+- use to search in differnt city names
 
 # Commands to run
--npm install
--npm start 
+- npm install
+- npm start 
 
